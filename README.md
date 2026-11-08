@@ -13,7 +13,7 @@ This presentation explores the role of time cells in the hippocampus and their c
 ## 🧠 Key Concepts
 
 ### What are Time Cells?
-- Specialized neurons in the hippocampus
+- Specialised neurons in the hippocampus
 - Fire at specific temporal points during experiences
 - Help create a temporal framework for memories
 
@@ -57,7 +57,7 @@ Cognitive Science - Learning and Memory
 ### Contributors
 This project was a collaborative effort. Key contributors include:
 - EPISODIC MEMORY IN THE
-- TIME CELLSLEARNING AND MEMORY
+- TIME CELLS LEARNING AND MEMORY
 
 ---
 
@@ -66,5 +66,5 @@ This project was a collaborative effort. Key contributors include:
 **Pravalli Matta**  
 *B.Tech-MSc Dual Degree Student in Cognitive Science*  
 **Indian Institute of Technology (IIT) Gandhinagar**  
-*Research Focus: Decision-making, fMRI, EEG, Neural Correlates, and Cognitive Psychology.*
+
 
