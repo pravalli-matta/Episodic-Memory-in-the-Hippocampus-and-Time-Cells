@@ -1,70 +1,58 @@
 # Episodic Memory in the Hippocampus and Time Cells
 
-## 📋 Project Overview
+This presentation brings together research on how the hippocampus represents the temporal structure of experience and how this may contribute to episodic memory.
 
-This presentation explores the role of time cells in the hippocampus and their contribution to episodic memory formation and retrieval.
+Episodic memory is not simply memory for individual facts or events. It involves remembering an experience in its context, including what happened and the order in which events occurred. The presentation explores how hippocampal activity may help organise this temporal information.
 
-## 🎯 Research Focus
+## Questions Explored
 
-- **Time Cells**: Neurons in the hippocampus that fire at specific moments during an experience
-- **Episodic Memory**: Memory of autobiographical events including temporal context
-- **Hippocampal Function**: How the hippocampus encodes temporal information alongside spatial and contextual information
+- What distinguishes episodic memory from semantic memory?
+- How can the brain represent the order and timing of events?
+- What do hippocampal time cells contribute to this representation?
+- How do temporal representations change across experiences and over longer periods?
 
-## 🧠 Key Concepts
+## From Episodic Memory to Temporal Coding
 
-### What are Time Cells?
-- Specialised neurons in the hippocampus
-- Fire at specific temporal points during experiences
-- Help create a temporal framework for memories
+The presentation begins with the distinction between episodic and semantic memory, including Tulving's account of autonoetic consciousness and the case of patient K.C. It then considers behavioural evidence from animal studies, including radial-arm maze tasks and the what–where–when framework for episodic-like memory.
 
-### Role in Episodic Memory
-- Provide temporal context to memories
-- Enable ordering of events in time
-- Support mental time travel (remembering past and imagining future)
+## Neural Evidence
 
-### Hippocampal Circuitry
-- CA1 region particularly important for time cells
-- Integration of spatial and temporal information
-- Connections to prefrontal cortex for memory retrieval
+### Theta Sequences
 
-## 📊 Research Evidence
+Work by Dragoi and Buzsáki (2006) is discussed in relation to the temporal compression of place-cell sequences during theta activity. These sequences provide one way to think about how order can be represented within a short period of neural activity.
 
-- Animal studies showing time cell activity patterns
-- Human fMRI and EEG studies
-- Patient studies with hippocampal damage
-- Computational models of temporal coding
+### Neural Drift and Temporal Context
 
-## 📄 Contents
+Manns et al. (2007) examined hippocampal activity during an odor-sequence task. The presentation discusses how gradually changing ensemble activity can provide a temporal context for experience, even when spatial representations are relatively stable.
 
-- `Episodic Memory in the Hippocampus and Time Cells.pdf` - Full presentation
+### Time Cells
 
-## 📚 Keywords
+Time cells are hippocampal neurons that show elevated activity at particular moments during a temporally structured task. Research including MacDonald et al. (2011, 2013) is used to explain how sequential activity across a delay can represent elapsed time. The presentation also considers how these activity patterns change when task timing changes and how memory-related activity can be distinguished from variables such as location and movement.
 
-Episodic memory, Hippocampus, Time cells, Temporal coding, Memory consolidation, CA1, Neural circuits
+### Temporal Context Across Longer Periods
 
-## 👤 Author
+Longitudinal work, including Rubin et al. (2015), is discussed to examine how hippocampal ensembles can remain distinctive across environments while their activity patterns gradually change over time.
 
-Pravalli Matta
+## Central Idea
 
-## 📅 Course
+The literature considered in this presentation suggests that the hippocampus represents more than where an experience takes place. Its activity also carries information about when events occur and how they are ordered. Time cells and changing population activity are possible components of this temporal representation.
 
-Cognitive Science - Learning and Memory
+These findings offer candidate mechanisms for temporal organisation in memory; they do not, on their own, provide a complete explanation of episodic memory or establish that time cells are its sole basis.
 
-## 📅 Year
+## Presentation
 
-2026
+[Read the presentation (PDF)](Episodic%20Memory%20in%20the%20Hippocampus%20and%20Time%20Cells.pdf)
 
-### Contributors
-This project was a collaborative effort. Key contributors include:
-- EPISODIC MEMORY IN THE
-- TIME CELLS LEARNING AND MEMORY
+## Selected References Discussed
 
----
+- Dragoi, G., & Buzsáki, G. (2006). Temporal encoding of place sequences by hippocampal cell assemblies.
+- Manns, J. R., Howard, M. W., & Eichenbaum, H. (2007). Gradual changes in hippocampal activity support remembering the order of events.
+- MacDonald, C. J., et al. (2011, 2013). Work on hippocampal time cells and temporal coding.
+- Rubin, A., et al. (2015). Longitudinal changes in hippocampal ensemble activity.
 
-## 👩‍🔬 About the Author
+## Project Details
 
-**Pravalli Matta**  
-*B.Tech-MSc Dual Degree Student in Cognitive Science*  
-**Indian Institute of Technology (IIT) Gandhinagar**  
-
-
+- **Course:** Learning and Memory
+- **Institution:** IIT Gandhinagar
+- **Year:** 2026
+- **Author:** Pravalli Matta
